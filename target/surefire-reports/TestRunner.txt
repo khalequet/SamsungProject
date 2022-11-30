@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.049 s <<< FAILURE! - in TestRunner
+TestRunner.runScenario["", "Optional[Create Account]"](1)  Time elapsed: 12.042 s  <<< FAILURE!
+java.lang.AssertionError: expected [Ulta Beauty | Official Site - Makeup, Hair Care, Skin Care, Fragrance, Bath & Gifts] but found [Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US]
+
